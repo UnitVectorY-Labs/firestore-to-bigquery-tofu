@@ -1,6 +1,8 @@
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT) [![Work In Progress](https://img.shields.io/badge/Status-Work%20In%20Progress-yellow)](https://guide.unitvectorylabs.com/bestpractices/status/#work-in-progress)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT) [![Abandoned](https://img.shields.io/badge/Status-Abandoned-red)](https://guide.unitvectorylabs.com/bestpractices/status/#abandoned)
 
 # firestore-to-bigquery-tofu
+
+This project is abandoned and is no longer developed or maintained. It is retained for historical reference.
 
 This module automates the scheduled export of Firestore data by triggering Cloud Run jobs that export to Cloud Storage and load the data into BigQuery.
 
